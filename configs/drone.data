@@ -1,0 +1,5 @@
+classes = 1
+train = /thanh/yolo-drone/darknet/train.txt
+valid = /thanh/yolo-drone/darknet/test.txt
+names = /thanh/yolo-drone/darknet/cfg/drone.names
+backup = backup/
